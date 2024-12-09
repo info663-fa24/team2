@@ -1,14 +1,14 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title of Interview (Derived from Creator),,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
+title,Title of Interview (Derived from the Narrator Name),,,DCTERMS.title,name
+creator,Narrator and Interviewer,,,DCTERMS.creator,creator
+date,Date,,,DCTERMS.date,dateCreated
+description,Biographical Information,,,DCTERMS.abstract,description
 subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
+location,Interview Locations,,,DCTERMS.spatial,spatialCoverage
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
-identifier,Source Identifier,,,,
+identifier,Source Identifier,,,DCTERMS:identifier,url
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
-rightsstatement,,,,DCTERMS.rights,license
+rightsstatement,,,,DCTERMS.rights,copyrightNotice
