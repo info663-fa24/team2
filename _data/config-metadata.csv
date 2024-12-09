@@ -1,10 +1,10 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title of Interview (Derived from the Narrator Name),,,DCTERMS.title,name
-creator,Narrator and Interviewer,,,DCTERMS.creator,creator
-date,Date,,,DCTERMS.date,dateCreated
+creator,Narrator and Interviewer,true,,DCTERMS.creator,creator
+date,Date,true,,DCTERMS.date,dateCreated
 description,Biographical Information,,,DCTERMS.abstract,description
 subject,Subjects,true,,DCTERMS.subject,keywords
-location,Interview Locations,,,DCTERMS.spatial,spatialCoverage
+location,Interview Locations,true,,DCTERMS.spatial,spatialCoverage
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
