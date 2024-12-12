@@ -1,7 +1,7 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
-subject,Subjects,,Subjects
+subject,Subjects,,,Subjects
 location,,true
 identifier,,,true,Identifier
 language,Language,,Language
