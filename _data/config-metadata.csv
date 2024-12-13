@@ -8,7 +8,7 @@ location,Interview Locations,true,,DCTERMS.spatial,spatialCoverage
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
-identifier,Source Identifier,,,DCTERMS:identifier,url
+identifier,Interview Session Identifier,false,,DCTERMS:identifier,url
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
-rightsstatement,,,,DCTERMS.rights,copyrightNotice
+rights,Rights Summary,false,false,DCTERMS.rights,copyrightNotice
