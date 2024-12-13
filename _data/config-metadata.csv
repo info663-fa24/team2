@@ -1,16 +1,13 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title of Interview (Derived from the Narrator Name),,,DCTERMS.title,name
-creator,Narrator and Interviewer,true,,DCTERMS.creator,creator
-date,Date,true,,DCTERMS.date,dateCreated
+creator,Narrator and Interviewer,true,false,DCTERMS.creator,creator
+date,Date,true,false,DCTERMS.date,dateCreated
 description,Biographical Information,false,false,DCTERMS.abstract,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Interview Locations,true,,DCTERMS.spatial,spatialCoverage
-latitude,Latitude,,,,
-longitude,Longitude,,,,
+subject,Subjects,true,false,DCTERMS.subject,keywords
+location,Interview Locations,true,false,DCTERMS.spatial,spatialCoverage
 source,Collection Name,false,false,DCTERMS:isPartOf,isPartOf
 identifier,Interview Session Identifier,false,false,DCTERMS:identifier,url
 type,Type,false,false,DCTERMS.type,encodingFormat
 language,Language,false,false,DCTERMS:language,inLanguage
-format,Format,,,,encodingFormat
 rights,Rights Summary,false,false,DCTERMS.rights,copyrightNotice
 object_location,Resource Location,false,true,DCTERMS:identifier,url
