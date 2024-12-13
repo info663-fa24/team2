@@ -5,3 +5,4 @@ subject,Subjects,true,,Subjects
 location,Location,true,,
 identifier,,,,
 language,Language,,,Language
+source,Collection Name,false,,Collection Name
