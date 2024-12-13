@@ -1,5 +1,5 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title of Interview (Derived from the Narrator Name),,,DCTERMS.title,name
+title,Title of Interview (Derived from the Narrator Name),true,false,DCTERMS.title,name
 creator,Narrator and Interviewer,true,false,DCTERMS.creator,creator
 date,Date,true,false,DCTERMS.date,dateCreated
 description,Biographical Information,false,false,DCTERMS.abstract,description
