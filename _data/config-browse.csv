@@ -1,8 +1,5 @@
 field,display_name,btn,hidden,sort_name
 date,Date,false,,Date
-creator,Creator,false,,
 subject,Subjects,true,,Subjects
-location,Location,true,,
-identifier,,,,
 language,Language,,,Language
 source,Collection Name,false,,Collection Name
