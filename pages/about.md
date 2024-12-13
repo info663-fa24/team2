@@ -15,7 +15,7 @@ credits: true
 ## About the Project
 
 This project was made by graduate students as part of a class project for Metadata Design at the Pratt institute in New York, NY.
-The collection it uses as the source for the metadata is housed at NYU at Voices https://findingaids.library.nyu.edu/fales/mss_309/.
+The collection it uses as the source for the metadata is housed at NYU.
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
