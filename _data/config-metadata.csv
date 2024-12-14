@@ -6,7 +6,7 @@ description,Biographical Information,false,false,DCTERMS.abstract,description
 subject,Subjects,true,false,DCTERMS.subject,keywords
 location,Interview Locations,true,false,DCTERMS.spatial,spatialCoverage
 source,Collection Name,false,false,DCTERMS:isPartOf,isPartOf
-identifier,Interview Session Identifier,false,false,DCTERMS:identifier,url
+identifier,Identifier,false,false,DCTERMS:identifier,url
 type,Type,false,false,DCTERMS.type,encodingFormat
 language,Language,false,false,DCTERMS:language,inLanguage
 rights,Rights Summary,false,false,DCTERMS.rights,copyrightNotice
